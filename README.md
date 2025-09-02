@@ -40,10 +40,14 @@
 
 ###
 
-<div align="center">
+ <div align="center">
   <a href="https://www.linkedin.com/in/omar-gowaily-787536298/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="73" height="61" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="73" height="61" alt="linkedin logo" />
+  </a>
+  <a href="https://www.kaggle.com/omargowaily" target="_blank">
+    <img src="https://github.com/user-attachments/assets/12b92af0-f5f8-4a52-8c3a-22e75152c37b" width="73" height="61" alt="kaggle logo" />
   </a>
 </div>
+
 
 ###
